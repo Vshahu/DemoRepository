@@ -4,3 +4,4 @@ thhhhhhhhhhhhhhhh
 hhhhhhhhhhhhhhhhh
 jjjjjjjjjjjjjjjj
 Add additional line
+this is for skip staging area
